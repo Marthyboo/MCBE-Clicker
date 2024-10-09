@@ -1,0 +1,9 @@
+C:\Users\danzi\source\repos\ConsoleAutoClicker\ConsoleAutoClicker\obj\Debug\ConsoleAutoClicker.csproj.AssemblyReference.cache
+C:\Users\danzi\source\repos\ConsoleAutoClicker\ConsoleAutoClicker\obj\Debug\ConsoleAutoClicker.csproj.CoreCompileInputs.cache
+C:\Users\danzi\source\repos\ConsoleAutoClicker\ConsoleAutoClicker\bin\Debug\ConsoleAutoClicker.exe.config
+C:\Users\danzi\source\repos\ConsoleAutoClicker\ConsoleAutoClicker\bin\Debug\ConsoleAutoClicker.exe
+C:\Users\danzi\source\repos\ConsoleAutoClicker\ConsoleAutoClicker\bin\Debug\ConsoleAutoClicker.pdb
+C:\Users\danzi\source\repos\ConsoleAutoClicker\ConsoleAutoClicker\bin\Debug\WindowsInput.dll
+C:\Users\danzi\source\repos\ConsoleAutoClicker\ConsoleAutoClicker\obj\Debug\ConsoleA.57A73CBA.Up2Date
+C:\Users\danzi\source\repos\ConsoleAutoClicker\ConsoleAutoClicker\obj\Debug\ConsoleAutoClicker.exe
+C:\Users\danzi\source\repos\ConsoleAutoClicker\ConsoleAutoClicker\obj\Debug\ConsoleAutoClicker.pdb
